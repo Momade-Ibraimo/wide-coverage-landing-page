@@ -17,24 +17,5 @@ O projeto apresenta uma interface moderna para divulgação de um serviço de mo
 * HTML5
 * CSS3
 
-Conceitos praticados
-
-* Estruturação semântica
-* Posicionamento de elementos
-* Flexbox
-* Responsividade
-* Media Queries
-* Pseudo-classes
-* Organização de layout
-
-Responsividade
-
-A interface foi adaptada para telas menores através de Media Queries, reorganizando os elementos para proporcionar uma melhor experiência em dispositivos móveis.
-
- Objetivo
-
-Praticar a construção de landing pages modernas utilizando apenas HTML e CSS, reforçando conceitos fundamentais do desenvolvimento Front-End.
-
-Autor
-
-Projeto desenvolvido para fins de estudo e prática.
+## Links:
+- Projeto:https://momade-ibraimo.github.io/wide-coverage-landing-page/
