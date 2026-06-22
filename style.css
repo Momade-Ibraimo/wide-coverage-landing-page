@@ -1,5 +1,3 @@
-/* RESET ALL OR ADD FOR ALL */
-
 * {
   margin: 0px;
   padding: 0px;
@@ -7,21 +5,19 @@
   font-family: "Poppins", sans-serif;
 }
 
-/* LAYOUT GERAL */
+
 
 .main-all {
   width: 100vw;
-  height: 100vh;
-  /* display: flex; */
-  /* align-items: center;
-  justify-content: center; */
+  height: 93vh;
+
 
 }
 
-/* START CODING */
+
 
 header {
-  margin: 44px 0 144px 76px;
+  margin: 13px 0 144px 76px;
 }
 
 .link-header {
@@ -166,13 +162,8 @@ p {
   color: #6eaa83;
   text-decoration: none;
   cursor: pointer;
-      border: none;
-                /* margin: 0 30px;
-                         margin-left: auto;
-        margin-right: auto;
-        display: flex;
-                align-items: center;
-  */
+  border: none;
+
 }
 
 .button-learnMore:hover {
@@ -193,22 +184,15 @@ a {
     display: none;
 }
 
-  /* body {
-    display: flex;
-    flex-direction: column;
-  } */
 
    section {
-    display: block !important;
-    /* display: flex;
-    flex-direction: column; */
+    display: block !importante
 } 
 
 .section-info {
     order: 1;
             margin-top: -53px;
-  /* margin-bottom: 1px;
-      margin-top: 112px; */
+ 
 }
 
 .images-section {
